@@ -1,35 +1,36 @@
-# The May 2022 NIH Common Fund Data Ecosystem Hackathon
+# The June 2022 NIH Common Fund Data Ecosystem All-Hands Meeting
 
-We are pleased to announce that the NIH Common Fund Data Ecosystem will be hosting a hackathon on NIH Common Fund data sets from **May 9 - 13, 2022**. This hackathon has both synchronous and asynchronous work, with concentrated hackathon sessions on specific data sets. Participants can attend whichever hackathon sessions they are interested in. Participants can also form working groups and tackle issues throughout the week organized in a GitHub repository. There is no minimum work requirement, all are welcome to participate as much or as little as schedules and interest allow!
+Please fill out this [registration form](https://forms.gle/XYerABGPdPyoJgNR7) if you will be attending.
 
-**To register, [sign up here](https://www.nih-cfde.org/events/may-2022-hackathon/).**
+Find agendas, presentations, and more in our [CFDE All-Hands Meeting 2022](https://drive.google.com/drive/folders/13NhWKYlPKPiZ5V8sob67CLU9F9g4Fx_0?usp=sharing) folder in the Google Drive.
 
-## Participating Groups
+### Location
+The Bethesdan Hilton Hotel <br/>
+8120 Wisconsin Avenue <br/>
+Bethesda, MD 20814 <br/>
 
-This event will feature sessions from the following groups:
+[Hotel Booking](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.hilton.com%2Fen%2Fbook%2Freservation%2Fdeeplink%2F%3Fctyhocn%3DWASBAUP%26groupCode%3DAH6%26arrivaldate%3D2022-06-08%26departuredate%3D2022-06-10%26cid%3DOM%2CWW%2CHILTONLINK%2CEN%2CDirectLink%26fromId%3DHILTONLINKDIRECT&data=05%7C01%7CMimi.Dejene%40Hilton.com%7C8403fcb5fabd491490e108da2ecf5d79%7C660292d2cfd54a3db7a7e8f7ee458a0a%7C0%7C0%7C637873765403587842%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2FAZpUm%2FxyBJdoMbEMZ4XuVjXVTpMUV68kLusvRWy%2FEw%3D&reserved=0) 
 
-### Gabriella Miller Kids First Pediatric Research Program (Kids First) 
+### Flights
+Ronald Reagan International Airport (DCA) <br/>
+2401 Smith Blvd <br/>
+Arlington, VA 22202 <br/>
 
-The goal of the Gabriella Miller Kids First Pediatric Research Program (Kids First) is to help researchers uncover new insights into the biology of childhood cancer and structural birth defects, including the discovery of shared genetic pathways between these disorders. Children with birth defects have an increased risk of developing childhood cancer. This suggests there are shared genetic pathways underlying some types of childhood cancer and structural birth defects. Analyzing genetic sequence data from children with childhood cancer and structural birth defects together may lead to the discovery of new genetic pathways.
+[Shuttle](https://www.supershuttle.com/locations/washington-dca-iad/)
 
-KF will host a session on accessing and using federated CFDE graph data through the Kids First-Human BioMolecular Atlas Program graph database with an API.
+### Local Restaurants
+#### Nicer Restaurants
+- Burtons
+- Duck Duck Goose
+- Morton’s Steakhouse
+#### Gluten Free
+- Flower Child
+- Lost Dog Cafe
+- True Food Kitchen
+#### Vegan
+- Planta
+- True Food Kitchen
+- Chaia  Bethesda
 
-### Stimulating Peripheral Activity to Relieve Conditions (SPARC)
 
-The Common Fund’s Stimulating Peripheral Activity to Relieve Conditions (SPARC) program accelerates development of therapeutic devices that modulate electrical activity in nerves to improve organ function. This therapeutic strategy, also known as “bioelectronic medicine,” could offer new treatment options for diverse diseases and conditions such as hypertension, heart failure, gastrointestinal disorders, and more.
 
-SPARC will host a session on providing information on access to SPARC resources via the SPARC portal and associated APIs.
-
-### Common Fund Data Ecosystem Coordinating Center (CFDE-CC)
-
-The (Common Fund Data Ecosystem Coordinating Center) CFDE-CC supports efforts to make Common Fund data sets more findable, accessible, interoperable, and reusable (FAIR) for the scientific community through collaboration, end-user training, and data set sustainability. The CFDE-CC manages and organizes CFDE activities, engage with participating Common Fund programs, connect with user communities, support training, develop tools and standards, and provide technical expertise to Common Fund programs. 
-
-The CFDE-CC will host the following events:
-
-- A demonstration of the [CFDE Data Portal](https://app.nih-cfde.org/)
-- Access and working with Human Microbiome Project Data 
-- Data Visualization in R using Genotype-Tissue Expression (GTEx) Data
-
-## Schedule
-
-Visit the [hackathon website](https://nih-cfde.github.io/2022-may-hackathon/) for the detailed schedule. 
