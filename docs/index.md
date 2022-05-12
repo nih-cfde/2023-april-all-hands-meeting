@@ -1,55 +1,33 @@
-# The May 2022 NIH Common Fund Data Ecosystem Hackathon
+# The June 2022 NIH Common Fund Data Ecosystem All-Hands Meeting
 
-We are pleased to announce that the NIH Common Fund Data Ecosystem will be hosting a hackathon on NIH Common Fund data sets from **May 9 - 13, 2022**. This hackathon has both synchronous and asynchronous work, with concentrated hackathon sessions on specific data sets. Participants can attend whichever hackathon sessions they are interested in. Participants can also form working groups and tackle issues throughout the week organized in a GitHub repository. There is no minimum work requirement, all are welcome to participate as much or as little as schedules and interest allow!
+Please fill out this [registration form](https://forms.gle/XYerABGPdPyoJgNR7) if you will be attending.
 
-**To register, [sign up here](https://www.nih-cfde.org/events/may-2022-hackathon/).**
+Find agendas, presentations, and more in our [CFDE All-Hands Meeting 2022](https://drive.google.com/drive/folders/13NhWKYlPKPiZ5V8sob67CLU9F9g4Fx_0?usp=sharing) folder in the Google Drive.
 
-## Schedule
+### Location
+The Bethesdan Hilton Hotel <br/>
+8120 Wisconsin Avenue <br/>
+Bethesda, MD 20814 <br/>
 
-| Day | Date | Time | Topic | Links | 
-| --- | --- | --- | --- | --- |
-| Monday | 5/9/22 | 9 - 11 am PT | Welcome + Introduction to Data Sets | [Issue #12][12] |
-| Monday | 5/9/22 | 1 - 2 pm PT | CFDE Portal Demo | [Issue #11][11] |
-| Tuesday | 5/10/22 | 9 - 11 am PT | iHMP Data Exploration | [Issue #10][10] |
-| Tuesday | 5/10/22 | 1 - 3 pm PT | Knowledge Graph to access and analyze Common Fund data from KidsFirst and HuBMAP |  [Issue #9][9] |
-| Wednesday | 5/11/22 | 9 am - 12 pm PT | Introduction to R for RNA Sequencing Analysis with GTEx Data | [Issue #8][8] |
-| Wednesday | 5/11/22 | 1 - 3 pm PT | Exploring SPARC data on organ - nervous system connectivity | [Issue #7][7] |
-| Thursday | 5/12/22 | 9 - 11 am PT | Social Co-working |  [Issue #6][6] |
-| Thursday | 5/12/22 | 1 - 3 pm PT | Social Co-working | [Issue #6][6]  |
-| Friday | 5/13/22 | 9 - 11 am PT | Closing Session  | [Issue #5][5] |
+[Hotel Booking](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.hilton.com%2Fen%2Fbook%2Freservation%2Fdeeplink%2F%3Fctyhocn%3DWASBAUP%26groupCode%3DAH6%26arrivaldate%3D2022-06-08%26departuredate%3D2022-06-10%26cid%3DOM%2CWW%2CHILTONLINK%2CEN%2CDirectLink%26fromId%3DHILTONLINKDIRECT&data=05%7C01%7CMimi.Dejene%40Hilton.com%7C8403fcb5fabd491490e108da2ecf5d79%7C660292d2cfd54a3db7a7e8f7ee458a0a%7C0%7C0%7C637873765403587842%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2FAZpUm%2FxyBJdoMbEMZ4XuVjXVTpMUV68kLusvRWy%2FEw%3D&reserved=0) 
 
-## Participating Groups
+### Flights
+Ronald Reagan International Airport (DCA) <br/>
+2401 Smith Blvd <br/>
+Arlington, VA 22202 <br/>
 
-This event will feature sessions from the following groups:
+[Shuttle](https://www.supershuttle.com/locations/washington-dca-iad/)
 
-### Gabriella Miller Kids First Pediatric Research Program (Kids First) 
-
-The goal of the Gabriella Miller Kids First Pediatric Research Program (Kids First) is to help researchers uncover new insights into the biology of childhood cancer and structural birth defects, including the discovery of shared genetic pathways between these disorders. Children with birth defects have an increased risk of developing childhood cancer. This suggests there are shared genetic pathways underlying some types of childhood cancer and structural birth defects. Analyzing genetic sequence data from children with childhood cancer and structural birth defects together may lead to the discovery of new genetic pathways.
-
-KF will host a session on accessing and using federated CFDE graph data through the Kids First-Human BioMolecular Atlas Program graph database with an API.
-
-### Stimulating Peripheral Activity to Relieve Conditions (SPARC)
-
-The Common Fund’s Stimulating Peripheral Activity to Relieve Conditions (SPARC) program accelerates development of therapeutic devices that modulate electrical activity in nerves to improve organ function. This therapeutic strategy, also known as “bioelectronic medicine,” could offer new treatment options for diverse diseases and conditions such as hypertension, heart failure, gastrointestinal disorders, and more.
-
-SPARC will host a session on providing information on access to SPARC resources via the SPARC portal and associated APIs.
-
-### Common Fund Data Ecosystem Coordinating Center (CFDE-CC)
-
-The (Common Fund Data Ecosystem Coordinating Center) CFDE-CC supports efforts to make Common Fund data sets more findable, accessible, interoperable, and reusable (FAIR) for the scientific community through collaboration, end-user training, and data set sustainability. The CFDE-CC manages and organizes CFDE activities, engage with participating Common Fund programs, connect with user communities, support training, develop tools and standards, and provide technical expertise to Common Fund programs. 
-
-The CFDE-CC will host the following events:
-
-- A demonstration of the [CFDE Data Portal](https://app.nih-cfde.org/)
-- Access and working with Human Microbiome Project Data 
-- Data Visualization in R using Genotype-Tissue Expression (GTEx) Data
-
-
-[12]: https://github.com/nih-cfde/2022-may-hackathon/issues/12
-[11]: https://github.com/nih-cfde/2022-may-hackathon/issues/11
-[10]: https://github.com/nih-cfde/2022-may-hackathon/issues/10
-[9]: https://github.com/nih-cfde/2022-may-hackathon/issues/9
-[8]: https://github.com/nih-cfde/2022-may-hackathon/issues/8
-[7]: https://github.com/nih-cfde/2022-may-hackathon/issues/7
-[6]: https://github.com/nih-cfde/2022-may-hackathon/issues/6
-[5]: https://github.com/nih-cfde/2022-may-hackathon/issues/5
+### Local Restaurants
+#### Nicer Restaurants
+- Burtons
+- Duck Duck Goose
+- Morton’s Steakhouse
+#### Gluten Free
+- Flower Child
+- Lost Dog Cafe
+- True Food Kitchen
+#### Vegan
+- Planta
+- True Food Kitchen
+- Chaia  Bethesda
