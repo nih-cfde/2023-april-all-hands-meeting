@@ -1,4 +1,4 @@
-site_name: 2022 May Common Fund Hackathon
+site_name: 2022 June All-Hands Meeting
 
 theme:
   name: material
@@ -12,5 +12,4 @@ nav:
     - Session Details and Recordings: about.md
     - Continued CFDE Engagement: engage.md
     - Code of Conduct: CODEOFCONDUCT.md
-    - Contributing: CONTRIBUTING.md
     - License: LICENSE.md
