@@ -41,3 +41,6 @@ Washington, D.C. 20001 <br/>
 - Planta
 - True Food Kitchen
 - Chaia  Bethesda
+
+### Contact
+For questions or concerns contact the CFDE helpdesk at support@cfde.atlassian.net
