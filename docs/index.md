@@ -43,4 +43,4 @@ Washington, D.C. 20001 <br/>
 - Chaia  Bethesda
 
 ### Contact
-For questions or concerns contact the CFDE helpdesk at support@cfde.atlassian.net
+For questions or concerns contact the CFDE helpdesk at [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net)
