@@ -16,6 +16,16 @@ Please fill out this [registration form](https://forms.gle/XYerABGPdPyoJgNR7) if
 
 Find agendas, presentations, and more in our [CFDE All-Hands Meeting 2022](https://drive.google.com/drive/folders/13NhWKYlPKPiZ5V8sob67CLU9F9g4Fx_0?usp=sharing) folder in the Google Drive.
 
+The general schedule is as follows:
+
+| Time (ET) |  Event |
+| --- | --- | 
+| 8 AM  | Breakfast buffet open |
+| 9 AM  | Morning Session |
+| 12:30 PM  | Buffet lunch |
+| 1:30 PM  | First afternoon session |
+| 3:30 PM  | Second afternoon session (day 1 only) | 
+
 
 ### Airports
 
