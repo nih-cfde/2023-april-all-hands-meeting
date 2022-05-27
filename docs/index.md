@@ -25,8 +25,9 @@ Find agendas, presentations, and more in our [CFDE All-Hands Meeting 2022](https
 | 9:20 AM | Session 1a: Accomplishments to Date | Chris Kinsinger | 
 | 10:30 AM  | _Break_ | | 
 | 11 AM  | Session 1b: Accomplishments to Date | Haluk Resat | 
-| 12:30 PM  | Buffet lunch | | 
+| 12:30 PM  | _Buffet lunch_ | | 
 | 1:30 PM  | Session 2a: Early Afternoon Demos | CFDE-CC  | 
+| 3 PM  | _Break_ | | 
 | 3:30 PM  | Session 2b: Late Afternoon Demos |  CFDE-CC  | 
 | 5 - 6 PM| _Refreshments still available_ | | 
 
@@ -38,7 +39,7 @@ Find agendas, presentations, and more in our [CFDE All-Hands Meeting 2022](https
 | 9 AM  | Session 3:  | Wendy Knosp |  
 | 10:15 AM  | _Break_ | | 
 | 10:45 AM  | Session 4: Working Group future plans |   | 
-| 12:30 PM  | Buffet lunch | | 
+| 12:30 PM  | _Buffet lunch_ | | 
 | 1:30 PM  | Session 5:   | George Papanicolaou  | 
 | 3:30 PM  | _Concluding Remarks_ |    | 
 
