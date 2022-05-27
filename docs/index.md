@@ -12,6 +12,10 @@ Bethesda, MD 20814 <br/>
 
 Please fill out this [registration form](https://forms.gle/XYerABGPdPyoJgNR7) if you will be attending.
 
+## Participation
+
+The safety of CFDE attendees is our top priority. Attendees are expected to adhere to [Code of Conduct](https://nih-cfde.github.io/2022-june-all-hands-meeting/CODEOFCONDUCT/) and are strongly encouraged to follow these [COVID-19 precautions](https://nih-cfde.github.io/2022-june-all-hands-meeting/COVID/).
+
 ## Agenda
 
 Find agendas, presentations, and more in our [CFDE All-Hands Meeting 2022](https://drive.google.com/drive/folders/13NhWKYlPKPiZ5V8sob67CLU9F9g4Fx_0?usp=sharing) folder in the Google Drive.
