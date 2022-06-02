@@ -57,7 +57,9 @@ A [draft aganda](https://docs.google.com/document/d/1zFuoyL0a9T6uM_WrGTjfGirlL30
 
 ### Local Restaurants
 
-Breakfast, lunch, and snacks will be catered by the hotel. Here are some nearby dinner options:
+Breakfast, lunch, snacks, coffee and tea will be catered by the hotel. 
+
+Dinner is on your own. Here are some nearby dinner options:
 
 #### Nicer Restaurants
 
