@@ -1,6 +1,9 @@
 # The June 2022 NIH Common Fund Data Ecosystem All-Hands Meeting
 
+This CFDE Program Meeting (All-Hands Meeting) will bring together the CFDE community to review progress over the past year and discuss strategic issues that impact the ecosystem as a whole. This event is being planned as an **in-person** meeting.
+
 ## June 9-10, 2022
+
 
 The Bethesdan Hilton Hotel <br/>
 8120 Wisconsin Avenue <br/>
