@@ -1,6 +1,6 @@
 # The June 2022 NIH Common Fund Data Ecosystem All-Hands Meeting
 
-## June 9-10, 2020
+## June 9-10, 2022
 
 The Bethesdan Hilton Hotel <br/>
 8120 Wisconsin Avenue <br/>
