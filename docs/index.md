@@ -16,7 +16,7 @@ The safety of CFDE attendees is our top priority. Attendees are expected to adhe
 
 ## Agenda
 
-A [draft aganda](https://docs.google.com/document/d/1zFuoyL0a9T6uM_WrGTjfGirlL30ZDGgS/edit) is avilable for viewing. Presentations and other information will be avilable in the [CFDE All-Hands Meeting 2022](https://drive.google.com/drive/folders/13NhWKYlPKPiZ5V8sob67CLU9F9g4Fx_0?usp=sharing) folder in the Google Drive.
+A [draft agenda](https://docs.google.com/document/d/1zFuoyL0a9T6uM_WrGTjfGirlL30ZDGgS/edit) is avilable for viewing. Presentations and other information will be avilable in the [CFDE All-Hands Meeting 2022](https://drive.google.com/drive/folders/13NhWKYlPKPiZ5V8sob67CLU9F9g4Fx_0?usp=sharing) folder in the Google Drive.
 
 ### Day 1: June 9, 2022
 
