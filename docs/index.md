@@ -23,30 +23,31 @@ A [detailed agenda](https://docs.google.com/document/d/1zFuoyL0a9T6uM_WrGTjfGirl
 
 ### Day 1: June 9, 2022
 
-| Time (ET) |  Event | Moderator |  
-| --- | --- | --- |
-| 8 AM  | _Breakfast buffet open_ |
-| 9 AM  | Welcome  & NIH remarks | Chris Kinsinger |  
-| 9:20 AM | Session 1a: Accomplishments to Date | Chris Kinsinger | 
-| 10:30 AM  | _Break_ | | 
-| 11 AM  | Session 1b: Accomplishments to Date | Haluk Resat | 
-| 12:30 PM  | _Buffet lunch_ | | 
-| 1:30 PM  | Session 2a: Early Afternoon Demos | CFDE-CC  | 
-| 3 PM  | _Break_ | | 
-| 3:30 PM  | Session 2b: Late Afternoon Demos |  CFDE-CC  | 
-| 5 - 6 PM| _Refreshments still available_ | | 
+| Time (ET) |  Event | Moderator |  Presenters |
+| --- | --- | --- | --- |
+| 8 AM  | _Breakfast_ |
+| 9 AM  | Welcome   | | Chris Kinsinger |  
+| 9:05 AM  | NIH Remarks | | Jim Anderson |   
+| 9:20 AM | Session 1a: Accomplishments to Date | Chris Kinsinger | White, Resnick, Ardlie, Ma’ayan, Subramaniam |
+| 10:30 AM  | _Break_ |  
+| 11 AM  | Session 1b: Accomplishments to Date | Haluk Resat |  Resnick, Brown, Carter, White,  Yang,  Xie, Milosavljevic, Ardlie, Silverstein, Subramaniam|
+| 12:30 PM  | _Lunch_ |  
+| 1:30 PM  | Session 2a: Early Afternoon Demos |  CFDE-CC  | IDG, LINCS, exRNA |
+| 3 PM  | _Break_ |  
+| 3:30 PM  | Session 2b: Late Afternoon Demos |  CFDE-CC  | GTEx, Metabolomics |
+| 5 - 6 PM| _Refreshments still available_ |  
 
 ### Day 2: June 10, 2022
 
-| Time (ET) |  Event | Moderator |  
-| --- | --- | --- |
-| 8 AM  | _Breakfast buffet open_ |
-| 9 AM  | Session 3:  | Wendy Knosp |  
+| Time (ET) |  Event | Moderator | Presenters |   
+| --- | --- | --- | --- |
+| 8 AM  | _Breakfast_ |
+| 9 AM  | Session 3: Other NIH Initiatives | Wendy Knosp | Gregurick , Davidsen, Rosen, Osborne, Ward 
 | 10:15 AM  | _Break_ | | 
-| 10:45 AM  | Session 4: Working Group future plans |   | 
-| 12:30 PM  | _Buffet lunch_ | | 
-| 1:30 PM  | Session 5:   | George Papanicolaou  | 
-| 3:30 PM  | _Concluding Remarks_ |    | 
+| 10:45 AM  | Session 4: Working Group Future Plans |   |  Ontology, Anatomy, Knowledge Graph, Genomics |
+| 12:30 PM  | _Lunch_ | 
+| 1:30 PM  | Session 5: Wrap-up and Action Items | George Papanicolaou  | 
+| 3:30 PM  | _Concluding Remarks_ |    
 
 
 
