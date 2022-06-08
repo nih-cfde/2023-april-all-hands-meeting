@@ -84,7 +84,7 @@ Dinner is on your own. Here are some nearby dinner options:
 - Chaia  Bethesda
 
 #### George's Insider's Guide to Restaurants Near Bethesdan
-- [George Papanicolaou's curated list of nearby restaurant reccommendations](./GeorgesList.md)
+- [George Papanicolaou's curated list of nearby restaurant recommendations](./GeorgesList.md)
 
 ### Contact
 
