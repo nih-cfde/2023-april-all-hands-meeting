@@ -51,7 +51,7 @@ A [detailed agenda](https://docs.google.com/document/d/1zFuoyL0a9T6uM_WrGTjfGirl
 
 
 
-### Airports
+## Airports
 
 - **Recommended:** Ronald Reagan International Airport (DCA) 2401 Smith Blvd  Arlington, VA 22202  
 - Not Metro accessible: Baltimore/Washington International Airport (BWI) 7050 Friendship Rd Baltimore, MD 21240  
@@ -59,7 +59,7 @@ A [detailed agenda](https://docs.google.com/document/d/1zFuoyL0a9T6uM_WrGTjfGirl
 
 [Super Shuttle for DCA or IDA](https://www.supershuttle.com/locations/washington-dca-iad/)
 
-### Local Restaurants
+## Local Restaurants
 
 Breakfast, lunch, snacks, coffee and tea will be catered by the hotel. 
 
@@ -82,6 +82,9 @@ Dinner is on your own. Here are some nearby dinner options:
 - Planta
 - True Food Kitchen
 - Chaia  Bethesda
+
+#### George's Insider's Guide to Restaurants Near Bethesdan
+- George Papanicolaou's curated lists of nearby restaurant reccommendations
 
 ### Contact
 
