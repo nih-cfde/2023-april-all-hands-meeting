@@ -43,8 +43,8 @@ A [detailed agenda](https://docs.google.com/document/d/1zFuoyL0a9T6uM_WrGTjfGirl
 | --- | --- | --- | --- |
 | 8 AM  | _Breakfast_ |
 | 9 AM  | Session 3: Other NIH Initiatives | Wendy Knosp | Gregurick , Davidsen, Rosen, Osborne, Ward 
-| 10:15 AM  | _Break_ | | 
-| 10:45 AM  | Session 4: Working Group Future Plans |   |  Ontology, Anatomy, Knowledge Graph, Genomics |
+| 10:30 AM  | _Break_ | | 
+| 11:00 AM  | Session 4: Working Group Future Plans |   |  Ontology, Anatomy, Knowledge Graph, Genomics |
 | 12:30 PM  | _Lunch_ | 
 | 1:30 PM  | Session 5: Wrap-up and Action Items | George Papanicolaou  | 
 | 3:30 PM  | _Concluding Remarks_ |    
