@@ -27,6 +27,6 @@ These links are currently available to CFDE members only.
 
 Read [George's insider's guide to restaurants in Bethesda](./GeorgesList.md)
 
-### Contact
+## Contact
 
 For questions or concerns contact the CFDE helpdesk at [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net)
