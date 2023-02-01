@@ -18,10 +18,6 @@ Stay tuned for a detailed agenda.
 
 Presentations and other resources are available in the [CFDE All-Hands April 2023 Google Drive folder](https://drive.google.com/drive/folders/1axSoVORpgKjNnWYF_gQngGml5ZDvZRAH?usp=sharing).
 
-## Resturants
-
-Read [George's insider's guide to restaurants in Bethesda](./GeorgesList.md)
-
 ## Contact
 
 For questions or concerns contact the CFDE helpdesk at [support@cfde.atlassian.net](mailto:support@cfde.atlassian.net)
