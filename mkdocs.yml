@@ -1,4 +1,4 @@
-site_name: 2022 June All-Hands Meeting
+site_name: 2023 April All-Hands Meeting
 
 theme:
   name: material
@@ -13,4 +13,4 @@ nav:
     - Contact: CONTACT.md
     - COVID-19 Precautions: COVID.md
     - Video Recordings: VIDEOS.md
-    - Restaurants: GeorgesList.md
+    - Restaurants: RESTAURANTS.md

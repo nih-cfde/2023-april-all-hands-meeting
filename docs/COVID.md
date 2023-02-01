@@ -12,12 +12,8 @@ The safety of CFDE attendees is our top priority.  We will continue to closely m
 
 ## Masks 
 
-**All attendees are strongly encouraged to wear face masks in public places throughout the meeting.** 
+**Masks are optional but will be provided by the organizers.** 
 
- 
-## The Hotel
-
-The Bethesdan Hilton Hotel has implemented several processes to ensure a [clean stay](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.hilton.com%2Fen%2Fp%2Fwhat-to-expect%2F&data=05%7C01%7Ckinsingc%40mail.nih.gov%7C73634348915c47a0c2dd08da3e8d7bdd%7C14b77578977342d58507251ca2dc2b06%7C0%7C0%7C637891074789020539%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Cy6hW4RbjWBecYsrTLyMb5vv6a7A56VqxAWB962n7eE%3D&reserved=0). Information about their airflow system is not currently available.
 
 ## Symptoms
 
