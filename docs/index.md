@@ -1,8 +1,8 @@
-# The June 2022 NIH Common Fund Data Ecosystem All-Hands Meeting
+# The Apri 2022 NIH Common Fund Data Ecosystem All-Hands Meeting
 
 The CFDE Program Meeting (All-Hands Meeting) brought together the CFDE community to review progress over the past year and discuss strategic issues that impact the ecosystem as a whole. This was a hybrid event with in-person and remote participation.
 
-## June 9-10, 2022
+## April 4-5, 2023
 
 The Bethesdan Hilton Hotel <br/>
 8120 Wisconsin Avenue <br/>
@@ -14,14 +14,9 @@ The safety of CFDE attendees was a top priority. Attendees were expected to adhe
 
 ## Agenda
 
-A [detailed agenda](https://docs.google.com/document/d/1zFuoyL0a9T6uM_WrGTjfGirlL30ZDGgS/edit) is available for viewing. 
+Stay tuned for a detailed agenda. 
 
-Presentations and other resources are available in the [CFDE All-Hands Meeting 2022 Google Drive folder](https://drive.google.com/drive/folders/13NhWKYlPKPiZ5V8sob67CLU9F9g4Fx_0?usp=sharing).
-
-## Video Recordings 
-
-Links for viewing the Zoom Stream are available [here](https://docs.google.com/document/d/1zFk8LdCq_GIxs6gCGcJ-qpexScfnc2ZyVu_LtbA7SHc/edit?usp=sharing).
-These links are currently available to CFDE members only.
+Presentations and other resources are available in the [CFDE All-Hands April 2023 Google Drive folder](https://drive.google.com/drive/folders/1axSoVORpgKjNnWYF_gQngGml5ZDvZRAH?usp=sharing).
 
 ## Resturants
 
