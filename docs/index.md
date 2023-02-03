@@ -19,7 +19,7 @@ The safety of CFDE attendees was a top priority. Attendees were expected to adhe
 
 ## Draft Agenda 
 
-## Day 1: April 4
+### Day 1: April 4
 
 | Time     | Topic         | Details |
 |----------|---------------|---------|
@@ -31,7 +31,7 @@ The safety of CFDE attendees was a top priority. Attendees were expected to adhe
 | 5:00 PM  | End           |         |
 
 
-## Day 2: April 5
+### Day 2: April 5
 
 | Time     | Topic         | Details |
 |----------|---------------|---------|
