@@ -1,4 +1,4 @@
-# The Apri 2022 NIH Common Fund Data Ecosystem All-Hands Meeting
+# The NIH Common Fund Data Ecosystem April 2023 All-Hands Meeting
 
 The April CFDE Program Meeting (All-Hands Meeting) will bring together the CFDE community to review progress and discuss strategic issues that impact the ecosystem as a whole. This was a hybrid event with in-person and remote participation.
 
@@ -7,6 +7,7 @@ The April CFDE Program Meeting (All-Hands Meeting) will bring together the CFDE 
 The Bethesdan Hilton Hotel <br/>
 8120 Wisconsin Avenue <br/>
 Bethesda, MD 20814 <br/>
+[Google Map](https://goo.gl/maps/bYKJiKZeGnmywWCm8)
 
 ## Registration
 
