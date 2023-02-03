@@ -16,11 +16,32 @@ Please fill out [this form](https://forms.gle/G7SEEcJdjZozbUUg6) to register you
 
 The safety of CFDE attendees was a top priority. Attendees were expected to adhere to [Code of Conduct](https://nih-cfde.github.io/2022-june-all-hands-meeting/CODEOFCONDUCT/) and were strongly encouraged to follow these [COVID-19 precautions](https://nih-cfde.github.io/2022-june-all-hands-meeting/COVID/).
 
-## Agenda
+## Draft Agenda 
 
-Stay tuned for a detailed agenda. 
+## Day 1: April 4
 
-Presentations and other resources are available in the [CFDE All-Hands April 2023 Google Drive folder](https://drive.google.com/drive/folders/1axSoVORpgKjNnWYF_gQngGml5ZDvZRAH?usp=sharing).
+| Time     | Topic         | Details |
+|----------|---------------|---------|
+| 9:00 AM  | Session 1     |         |
+| 10:30 AM | Morning Break |         |
+| 11:00 AM | Session 2     |         |
+| 12:30 PM | Lunch         |         |
+| 1:30 PM  | Session 3     |         |
+| 5:00 PM  | End           |         |
+
+
+## Day 2: April 5
+
+| Time     | Topic         | Details |
+|----------|---------------|---------|
+| 9:00 AM  | Session 4     |         |
+| 10:30 AM | Morning Break |         |
+| 11:00 AM | Session 5     |         |
+| 12:30 PM | Lunch         |         |
+| 1:30 PM  | Session 6     |         |
+| 3:30 PM  | End           |         |
+
+Presenters, please upload your slides to the [CFDE All-Hands April 2023 Google Drive folder](https://drive.google.com/drive/folders/1axSoVORpgKjNnWYF_gQngGml5ZDvZRAH?usp=sharing).
 
 ## Contact
 
