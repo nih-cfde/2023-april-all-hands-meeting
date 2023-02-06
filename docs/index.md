@@ -1,13 +1,13 @@
 # The NIH Common Fund Data Ecosystem April 2023 All-Hands Meeting
 
-The April CFDE Program Meeting (All-Hands Meeting) will bring together the CFDE community to review progress and discuss strategic issues that impact the ecosystem as a whole. This was a hybrid event with in-person and remote participation.
+The April CFDE Program Meeting (All-Hands Meeting) will bring together the CFDE community to review progress and discuss strategic issues that impact the ecosystem as a whole. This is a hybrid event with in-person and remote participation.
 
 ## April 4-5, 2023
 
 The Bethesdan Hilton Hotel <br/>
 8120 Wisconsin Avenue <br/>
 Bethesda, MD 20814 <br/>
-[Google Map](https://goo.gl/maps/bYKJiKZeGnmywWCm8)
+[Google Maps](https://goo.gl/maps/bYKJiKZeGnmywWCm8)
 
 ## Registration
 
@@ -15,7 +15,7 @@ Please fill out [this form](https://forms.gle/G7SEEcJdjZozbUUg6) to register you
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdpO5095Ibn8VvDmi6D8rMVcSJz_LICMZwjBLZ5GgJYoL9Xgg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-The safety of CFDE attendees was a top priority. Attendees were expected to adhere to [Code of Conduct](https://nih-cfde.github.io/2022-june-all-hands-meeting/CODEOFCONDUCT/) and were strongly encouraged to follow these [COVID-19 precautions](https://nih-cfde.github.io/2022-june-all-hands-meeting/COVID/).
+The safety of CFDE attendees is a top priority. Attendees are expected to adhere to [Code of Conduct](https://nih-cfde.github.io/2023-april-all-hands-meeting/CODEOFCONDUCT/) and are strongly encouraged to follow these [COVID-19 precautions](https://nih-cfde.github.io/2023-april-all-hands-meeting/COVID/).
 
 ## Draft Agenda 
 
