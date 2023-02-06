@@ -2,12 +2,17 @@
 
 The April CFDE Program Meeting (All-Hands Meeting) will bring together the CFDE community to review progress and discuss strategic issues that impact the ecosystem as a whole. This is a hybrid event with in-person and remote participation.
 
+For this meeting we are also planning a poster session, and some
+posters will be selected for lightning talks!
+
 ## April 4-5, 2023
 
 The Bethesdan Hilton Hotel <br/>
 8120 Wisconsin Avenue <br/>
 Bethesda, MD 20814 <br/>
 [Google Maps](https://goo.gl/maps/bYKJiKZeGnmywWCm8)
+
+Registration and hotel booking deadlines: February 24th, 2023.
 
 ## Registration
 
@@ -16,6 +21,10 @@ Please fill out [this form](https://forms.gle/G7SEEcJdjZozbUUg6) to register you
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdpO5095Ibn8VvDmi6D8rMVcSJz_LICMZwjBLZ5GgJYoL9Xgg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 The safety of CFDE attendees is a top priority. Attendees are expected to adhere to [Code of Conduct](https://nih-cfde.github.io/2023-april-all-hands-meeting/CODEOFCONDUCT/) and are strongly encouraged to follow these [COVID-19 precautions](https://nih-cfde.github.io/2023-april-all-hands-meeting/COVID/).
+
+## Booking hotel rooms
+
+Please use [this link](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=WASBAUP&groupCode=CF4&arrivaldate=2023-04-03&departuredate=2023-04-06&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT) to book hotel rooms at the Bethesdan for the dates of the meeting.
 
 ## Draft Agenda 
 
