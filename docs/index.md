@@ -36,7 +36,7 @@ Please use [this link](https://www.hilton.com/en/book/reservation/deeplink/?ctyh
 | 10:30 AM | Morning Break |         |
 | 11:00 AM | Session 2     |         |
 | 12:30 PM | Lunch         |         |
-| 1:30 PM  | Session 3     |         |
+| 1:30 PM  | Session 3: Poster Reception  | [Click here](https://nih-cfde.github.io/2023-april-all-hands-meeting/POSTERS.md) for details and the abstract submission form. |
 | 5:00 PM  | End           |         |
 
 
