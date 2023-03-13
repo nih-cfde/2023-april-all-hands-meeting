@@ -1,6 +1,6 @@
 # Call for Abstracts
 
-The CFDE Steering Committee invites you to submit an abstract of your scientific research or technical work to be considered for a poster or oral presentation during the CFDE meeting, April 4-5, 2023 at the Bethesda Hotel.
+The CFDE Steering Committee invites you to submit an abstract of your scientific research or technical work to be considered for a poster or oral presentation during the CFDE meeting, **April 4-5**, 2023 at the Bethesda Hotel.
 
 
 Abstracts can be of a scientific or technical nature. Abstracts should provide clear data and validated conclusions. They should consist of an introduction that presents the background and rationale of the study or work, a brief description of the methods employed, a summary of the results, and a statement of the conclusions, best practices, or lessons learned.
