@@ -2,7 +2,7 @@
 
 The April CFDE Program Meeting (All-Hands Meeting) will bring together the CFDE community to review progress and discuss strategic issues that impact the ecosystem as a whole. This is a hybrid event with in-person and remote participation.
 
-For this meeting we are also planning a [poster session](https://nih-cfde.github.io/2023-april-all-hands-meeting/POSTERS.md), and some
+For this meeting we are also planning a [poster session](https://nih-cfde.github.io/2023-april-all-hands-meeting/POSTERS), and some
 posters will be selected for lightning talks!
 
 ## April 4-5, 2023
@@ -34,7 +34,7 @@ Please use [this link](https://www.hilton.com/en/book/reservation/deeplink/?ctyh
 | 10:30 AM | Morning Break |         |
 | 11:00 AM | Session 2     |         |
 | 12:30 PM | Lunch         |         |
-| 1:30 PM  | Session 3: Poster Reception  | [Click here](https://nih-cfde.github.io/2023-april-all-hands-meeting/POSTERS.md) for details and the abstract submission form. |
+| 1:30 PM  | Session 3: Poster Reception  | [Click here](https://nih-cfde.github.io/2023-april-all-hands-meeting/POSTERS) for details and the abstract submission form. |
 | 5:00 PM  | End           |         |
 
 
