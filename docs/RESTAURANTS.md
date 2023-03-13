@@ -1,6 +1,6 @@
 # Recommended Restaurants
 
-Breakfast, lunch, coffee, and snacks will be provided by the hotel. For dinner, here are a few recommendations.
+Breakfast, lunch, coffee, and snacks will be provided by the hotel. For dinner, here are a few recommendations:
 
 - **Barrel and Crow Restaurant**  (Regional cuisine) 4867 Cordell Ave.
 - **Gringos and Mariachis** (Tex-Mex) 4928 Cordell Ave.
