@@ -9,9 +9,7 @@ Because this meeting is a confidential, internal "study" meeting, abstracts subm
 
 ## Poster Size and Layout
 
-Each author will share one-side of a poster board and each author will have a useable area measuring 2’10” (86.36 cm) wide x 3’8” (111.76 cm) high. This is a portrait/vertical format. Poster materials may not extend outside the assigned half-board. The majority of meetings use this size, but if there is an existing poster that exceeds this size, dispensation may be available to conserve resources. Check first with NIH CFDE staff.
-
-Space for posters and time for presentations will be limited, and if the organizers of the CFDE meeting receive more abstracts posters than there is available space, priority will be given to those abstracts that were submitted in a timely fashion and that provide all the information that is requested. We will also be selecting a small subset of poster presenters to give brief lightning-style talks at the start of the poster session (2 min or less).
+Poster boards are 6 ft wide x 4 ft high. Posters can be in portrait or landscape mode but should not excede the poster stand dimensions. Space for posters and time for presentations will be limited. If the organizers of the CFDE meeting receive more abstracts than there is available space, priority will be given to those abstracts that were submitted in a timely fashion and that provide all the information that is requested. We will also be selecting a small subset of poster presenters to give brief lightning-style talks at the start of the poster session (2 min or less).
 
 ## Dates
 
