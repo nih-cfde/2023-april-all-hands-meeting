@@ -23,7 +23,5 @@ Please fill out [this form](https://docs.google.com/forms/d/1mvw9IcnI-jjtLzU2IzS
 
 **SUBMISSIONS ARE LIMITED TO TWO ABSTRACTS PER PRESENTER**
 
-https://docs.google.com/forms/d/e/1FAIpQLSdyKekDI4tnoDdj9XWGwab6N83DTtlqaNXAP3T5CvjOO7g9Kw/viewform?usp=sf_link
-
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdyKekDI4tnoDdj9XWGwab6N83DTtlqaNXAP3T5CvjOO7g9Kw/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
