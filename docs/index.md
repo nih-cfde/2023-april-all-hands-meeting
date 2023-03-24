@@ -15,11 +15,8 @@ Bethesda, MD 20814 <br/>
 
 ## Registration
 
-**Registration is closed.**
-
-<!-- Please fill out [this form](https://forms.gle/G7SEEcJdjZozbUUg6) to register your intent to attend. Registration deadline: March 18
-
--->
+Please fill out [this form](https://forms.gle/G7SEEcJdjZozbUUg6) to
+register your intent to attend in person or online!
 
 The safety of CFDE attendees is a top priority. Attendees are expected to adhere to [Code of Conduct](https://nih-cfde.github.io/2023-april-all-hands-meeting/CODEOFCONDUCT/) and are strongly encouraged to follow these [COVID-19 precautions](https://nih-cfde.github.io/2023-april-all-hands-meeting/COVID/).
 
