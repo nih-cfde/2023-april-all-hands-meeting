@@ -38,28 +38,28 @@ Please use [this link](https://www.hilton.com/en/book/reservation/deeplink/?ctyh
 
 Time | Activity
 -- | --
-9:00 - 9:10 am | Welcome and Logistics
-9:10 - 9:30 am | NIH Remarks 
-9:30 - 10:30 am | CFDE Partnerships
+9:00 - 9:10 am | **Welcome and Logistics**
+9:10 - 9:30 am | **NIH Remarks** 
+9:30 - 10:30 am | **CFDE Partnerships**
 10:30 - 11:00 am | _Break_
-11:00 - 12:00 pm | CFDE Partnerships (cont'd)
+11:00 - 12:00 pm | **CFDE Partnerships (cont'd)**
 12:00 - 1:00 pm | _Lunch_
-1:00 - 2:30 pm | Communication and Outreach for CFDE Products
+1:00 - 2:30 pm | **Communication and Outreach for CFDE Product**s
 2:30 - 3: pm | _Break_
-3:00 - 5:00 pm | Lightning talks and poster session
+3:00 - 5:00 pm | **Lightning talks and poster session**
 
 
 ### Day 2: Wednesday, April 5
 
 Time | Activity
 -- | --
-8:30 - 10:00 am | What would it take to make CFDE AI/ML-ready?
+8:30 - 10:00 am | **What would it take to make CFDE AI/ML-ready?**
 10:00 - 10:30 am | _Break_
-10:30 - 12:00 pm | Breakouts: Working Groups + other
+10:30 - 12:00 pm | **Breakouts: Working Groups + other**
 12:00 - 1:00 pm | _Lunch_
-1:00 - 2:15 pm | Preparing CFDE for New Data Domains
-2:15 - 3:00 pm | Open Discussion
-3:00 - 3:15 pm | Wrap up and next steps
+1:00 - 2:15 pm | **Preparing CFDE for New Data Domains**
+2:15 - 3:00 pm | **Open Discussion**
+3:00 - 3:15 pm | **Wrap up and next steps**
 
 Presenters, please upload your slides to the [CFDE All-Hands April 2023 Google Drive folder](https://drive.google.com/drive/folders/1axSoVORpgKjNnWYF_gQngGml5ZDvZRAH?usp=sharing).
 
