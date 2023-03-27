@@ -40,9 +40,9 @@ Time | Session | Presenter
 -- | -- | -- | 
 9:00 - 9:10 am | Welcome and Logistics | Titus Brown  
 9:10 - 9:30 am | NIH Remarks | Doug Sheeley
-9:30 - 10:30 am | CFDE Partnerships | Playbook: Daniele Clarke <br> RNASeq: Kristin Ardlie and Matt Ruffalo <br> Data Distillery: Deanne Taylor and Jonathan Silverstein <br> CLOVoc: Srini Ramachandran
+9:30 - 10:30 am | CFDE Partnerships | Playbook: Daniele Clarke <br /> RNASeq: Kristin Ardlie and Matt Ruffalo <br /> Data Distillery: Deanne Taylor and Jonathan Silverstein <br /> CLOVoc: Srini Ramachandran
 10:30 -11:00 am | _Break_ | 
-11:00 -12:00 pm | CFDE Partnerships (cont'd) | Variant: Aleks Milosavljevic <br> ReproTox: Sherry Xie <br> Gene Dashboard: Shankar Subramaniam
+11:00 -12:00 pm | CFDE Partnerships (cont'd) | Variant: Aleks Milosavljevic <br /> ReproTox: Sherry Xie <br /> Gene Dashboard: Shankar Subramaniam
 12:00 - 1:00 pm | Lunch | 
 1:00 - 2:30 pm | Communication and Outreach for CFDE Products | 
 2:30 - 3:00 pm | _Break_ | 
@@ -53,11 +53,11 @@ Time | Session | Presenter
 
 Time | Session | Presenter 
 -- | -- | -- |
-8:30 - 10:00 am | What would it take to make CFDE AI/ML-ready? | Technical Considerations: Avi Ma’ayan, LINCS  <br> Data and Model Bias Considerations – Aaron Lee, Bridge2AI 
+8:30 - 10:00 am | What would it take to make CFDE AI/ML-ready? | Technical Considerations: Avi Ma’ayan, LINCS  <br /> Data and Model Bias Considerations – Aaron Lee, Bridge2AI 
 10:00 - 10:30 am | _Break_ | 
-10:30am - 12:00 pm | Breakouts | Communications Working <br> Group Ontology <br> Working Group <br> Knowledge Graph Working Group <br>  Informal Interactions
+10:30am - 12:00 pm | Breakouts | Communications Working <br /> Group Ontology <br /> Working Group <br /> Knowledge Graph Working Group <br />  Informal Interactions
 12:00 -1:00 pm | _Lunch_ | 
-1:00 - 2:15 pm | Preparing CFDE for New Data Domains | Social Determinants of Health: Lori Scott-Sheldon and the ComPASS Program Team <br> EHR/FHIR: Allison Heath 
+1:00 - 2:15 pm | Preparing CFDE for New Data Domains | Social Determinants of Health: Lori Scott-Sheldon and the ComPASS Program Team <br /> EHR/FHIR: Allison Heath 
 2:15 - 3:00 pm | Open Discussion | 
 3:00 - 3:15 pm | Wrap up and next steps | George Papanicolaou
 
