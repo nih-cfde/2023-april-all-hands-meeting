@@ -32,26 +32,32 @@ Please use [this link](https://www.hilton.com/en/book/reservation/deeplink/?ctyh
 
 ### Day 1: April 4
 
-| Time     | Topic         | Details |
-|----------|---------------|---------|
-| 9:00 AM  | Session 1     |         |
-| 10:30 AM | Morning Break |         |
-| 11:00 AM | Session 2     |         |
-| 12:30 PM | Lunch         |         |
-| 1:30 PM  | Session 3: Poster Reception  | [Click here](https://nih-cfde.github.io/2023-april-all-hands-meeting/ABSTRACTS) for details and the abstract submission form. |
-| 5:00 PM  | End           |         |
+<google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+
+Time | Activity
+-- | --
+9-9:10am | Welcome and Logistics
+9:10-9:30am | NIH Remarks - Doug Sheeley
+9:30-10:30am | CFDE Partnerships
+10:30-11am | (break)
+11-12pm | CFDE Partnerships (cont'd)
+12-1pm | Lunch
+1-2:30pm | Communication and Outreach for CFDE Products
+2:30-3pm | (break)
+3-5pm | Lightning talks and poster session
 
 
 ### Day 2: April 5
 
-| Time     | Topic         | Details |
-|----------|---------------|---------|
-| 9:00 AM  | Session 4     |         |
-| 10:30 AM | Morning Break |         |
-| 11:00 AM | Session 5     |         |
-| 12:30 PM | Lunch         |         |
-| 1:30 PM  | Session 6     |         |
-| 3:30 PM  | End           |         |
+Time | Activity
+-- | --
+8:30am-10am | What would it take to make CFDE AI/ML-ready?
+10:10:30 | (break)
+10:30am-noon | Breakouts: Working Groups + other
+12-1pm | Lunch
+1-2:15pm | Preparing CFDE for New Data Domains
+2:15-3pm | Open Discussion
+3-3:15pm | Wrap up and next steps
 
 Presenters, please upload your slides to the [CFDE All-Hands April 2023 Google Drive folder](https://drive.google.com/drive/folders/1axSoVORpgKjNnWYF_gQngGml5ZDvZRAH?usp=sharing).
 
