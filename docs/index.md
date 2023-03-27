@@ -30,7 +30,7 @@ Please use [this link](https://www.hilton.com/en/book/reservation/deeplink/?ctyh
 
 ## Draft Agenda 
 
-### Day 1: April 4
+### Day 1: Tuesday, April 4
 
 <google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
 
@@ -47,7 +47,7 @@ Time | Activity
 3-5pm | Lightning talks and poster session
 
 
-### Day 2: April 5
+### Day 2: Wednesday, April 5
 
 Time | Activity
 -- | --
