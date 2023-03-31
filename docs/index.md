@@ -36,30 +36,34 @@ Please use [this link](https://www.hilton.com/en/book/reservation/deeplink/?ctyh
 
 <google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
 
-Time | Activity | Presenters
--- | -- | --
-9:00 - 9:10 am | **Welcome and Logistics** | Titus Brown, CFDE-CC
-9:10 - 9:30 am | **NIH Remarks** | Doug Sheeley, Acting Director, Office of Strategic Coordination
-9:30 - 10:30 am | **CFDE Partnerships** | Playbook: Daniel Clarke, RNASeq: Kristin Ardlie and Matt Ruffalo, Data Distillery: Deanne Taylor and Jonathan Silverstein, CLOVoc: Srini Ramachandran
-10:30 - 11:00 am | _Break_ | 
-11:00 - 12:00 pm | **CFDE Partnerships (cont'd)** | Variant: Aleks Milosavljevic, ReproTox: Sherry Xie, Gene Dashboard: Shankar Subramaniam
-12:00 - 1:00 pm | _Lunch_ | 
-1:00 - 2:30 pm | **Communication and Outreach for CFDE Products** | 
-2:30 - 3: pm | _Break_ | 
-3:00 - 5:00 pm | **Lightning Talks and Poster Session** | _Details coming soon!_
-
+Time | Activity | Presenter | Location
+-- | -- | -- | --
+Tuesday | Breakfast |   | Wisconsin
+9-9:10am | Welcome and Logistics | Titus Brown, CFDE-CC | Ballroom C D
+9:10-9:30am | NIH Remarks - Doug Sheeley | Doug Sheeley, Acting Director, Office of Strategic Coordination | Ballroom C D
+9:30-10:30am | CFDE Partnerships | Daniel Clarke, Kristin Ardlie/Matt Ruffalo, Deanne Taylor/Jonathan Silverstein, Srini Ramachandran | Ballroom C D
+10:30-11am | (break) |   | outside ballroom D
+11-12pm | CFDE Partnerships (cont'd) | Aleks Milosavljevic, Sherry Xie, Shankar Subramaniam | Ballroom C D
+12-1pm | Lunch |   | First floor restaurant
+1-2:30pm | Communication and Outreach for CFDE Products |   | Ballroom C D
+2:30-3pm | (break) |   | outside ballroom D
+3-5pm | Lightning talks and poster session |   | Wisconsin
+  |   |   |  
 
 ### Day 2: Wednesday, April 5
 
-Time | Activity | Presenters
--- | -- | --
-8:30 - 10:00 am | **What would it take to make CFDE AI/ML-ready?** | Technical Considerations: Avi Ma’ayan, Data and Model Bias Considerations: Aaron Lee
-10:00 - 10:30 am | _Break_ | 
-10:30 - 12:00 pm | **Breakout Session** | Communications WG, Ontology WG, Knowledge Graph WG, Informal Interactions
-12:00 - 1:00 pm | _Lunch_ | 
-1:00 - 2:15 pm | **Preparing CFDE for New Data Domains** | Social Determinants of Health: Lori Scott-Sheldon and the ComPASS Program Team, EHR/FHIR: Allison Heath 
-2:15 - 3:00 pm | **Open Discussion** | 
-3:00 - 3:15 pm | **Wrap-up and Next Steps** | George Papanicolaou
+Time | Activity | Presenter | Location
+-- | -- | -- | --
+Wednesday | Breakfast |   | outside ballroom A
+8:30-10am | What would it take to make CFDE AI/ML-ready? | Avi Ma’ayan, Aaron Lee | Ballroom A B C D
+10-10:30am | (break) |   | outside ballroom A
+10:30-noon | Breakouts: Working Groups + other | Communications WG, Ontology WG, Knowledge Graph WG, Informal Interactions | Wisconsin, Rosedale, Cordell
+12-1pm | Lunch |   | outside ballroom A
+1-2:15pm | Preparing CFDE for New Data Domains | Lori Scott-Sheldon, Allison Heath | Ballroom A B C D
+2:15-3pm | Open Discussion |   | Ballroom A B C D
+3-3:15pm | Wrap up and next steps | George Papanicolaou | Ballroom A B C D
+
+
 
 Presenters, please upload your slides to the [CFDE All-Hands April 2023 Google Drive folder](https://drive.google.com/drive/folders/1axSoVORpgKjNnWYF_gQngGml5ZDvZRAH?usp=sharing).
 
