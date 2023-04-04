@@ -28,7 +28,7 @@ Please use [this link](https://www.hilton.com/en/book/reservation/deeplink/?ctyh
 
 -->
 
-## Draft Agenda 
+## Agenda 
 
 [A detailed agenda is available here.](https://docs.google.com/document/d/129ykk3SXCUBQ_To2G07Scg1hOXOYH4qd/edit)
 
