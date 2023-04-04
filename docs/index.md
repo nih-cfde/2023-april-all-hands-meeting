@@ -38,32 +38,33 @@ Please use [this link](https://www.hilton.com/en/book/reservation/deeplink/?ctyh
 
 Time | Activity | Presenter | Location
 -- | -- | -- | --
-Tuesday | Breakfast |   | Wisconsin
+8-9am | Breakfast |   | Wisconsin
 9-9:10am | Welcome and Logistics | Titus Brown, CFDE-CC | Ballroom C D
 9:10-9:30am | NIH Remarks - Doug Sheeley | Doug Sheeley, Acting Director, Office of Strategic Coordination | Ballroom C D
 9:30-10:30am | CFDE Partnerships | Daniel Clarke, Kristin Ardlie/Matt Ruffalo, Deanne Taylor/Jonathan Silverstein, Srini Ramachandran | Ballroom C D
 10:30-11am | (break) |   | outside ballroom D
 11-12pm | CFDE Partnerships (cont'd) | Aleks Milosavljevic, Sherry Xie, Shankar Subramaniam | Ballroom C D
 12-1pm | Lunch |   | First floor restaurant
-1-2:30pm | Communication and Outreach for CFDE Products |   | Ballroom C D
+1-2:30pm | Communication and Outreach for CFDE Products | Bernard de Bono & Srini Ramachandran | Ballroom C D
 2:30-3pm | (break) |   | outside ballroom D
-3-5pm | Lightning talks and poster session |   | Wisconsin
-  |   |   |  
+3-5pm | Lightning talks and poster session | Mihir Samdarshi, Erol Evangelista, Giacomo Marino, Sara Rolfe, Hadley King, Jeet Vora, Chan Zhou | Wisconsin
 
 ### Day 2: Wednesday, April 5
 
+<google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+
 Time | Activity | Presenter | Location
 -- | -- | -- | --
-Wednesday | Breakfast |   | outside ballroom A
+7:30-8:30am | Breakfast |   | outside ballroom A
 8:30-10am | What would it take to make CFDE AI/ML-ready? | Avi Ma’ayan, Aaron Lee | Ballroom A B C D
 10-10:30am | (break) |   | outside ballroom A
-10:30-noon | Breakouts: Working Groups + other | Communications WG, Ontology WG, Knowledge Graph WG, Informal Interactions | Wisconsin, Rosedale, Cordell
+10:30-noon | Breakouts: Working Groups + other | Communications WG | Rosedale
+  |   | Ontology WG/Knowledge Graph WG | Wisconsin
+  |   | Informal/Birds of a Feather meetins | Ballroom A B C D
 12-1pm | Lunch |   | outside ballroom A
 1-2:15pm | Preparing CFDE for New Data Domains | Lori Scott-Sheldon, Allison Heath | Ballroom A B C D
 2:15-3pm | Open Discussion |   | Ballroom A B C D
 3-3:15pm | Wrap up and next steps | George Papanicolaou | Ballroom A B C D
-
-
 
 Presenters, please upload your slides to the [CFDE All-Hands April 2023 Google Drive folder](https://drive.google.com/drive/folders/1axSoVORpgKjNnWYF_gQngGml5ZDvZRAH?usp=sharing).
 
