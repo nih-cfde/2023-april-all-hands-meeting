@@ -30,7 +30,7 @@ Please use [this link](https://www.hilton.com/en/book/reservation/deeplink/?ctyh
 
 ## Draft Agenda 
 
-[A detailed agenda is available here.](https://docs.google.com/document/d/1y7d2n-jutCZVcYZ1rz_yq9X7uxkpQn1M/edit?usp=sharing&ouid=108542948824361321088&rtpof=true&sd=true)
+[A detailed agenda is available here.](https://docs.google.com/document/d/129ykk3SXCUBQ_To2G07Scg1hOXOYH4qd/edit)
 
 ### Day 1: Tuesday, April 4
 
