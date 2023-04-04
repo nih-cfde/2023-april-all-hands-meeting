@@ -60,7 +60,7 @@ Time | Activity | Presenter | Location
 10-10:30am | (break) |   | outside ballroom A
 10:30-noon | Breakouts: Working Groups + other | Communications WG | Rosedale
   |   | Ontology WG/Knowledge Graph WG | Wisconsin
-  |   | Informal/Birds of a Feather meetins | Ballroom A B C D
+  |   | Informal/Birds of a Feather meetings | Ballroom A B C D
 12-1pm | Lunch |   | outside ballroom A
 1-2:15pm | Preparing CFDE for New Data Domains | Lori Scott-Sheldon, Allison Heath | Ballroom A B C D
 2:15-3pm | Open Discussion |   | Ballroom A B C D
