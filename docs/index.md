@@ -30,7 +30,7 @@ Please use [this link](https://www.hilton.com/en/book/reservation/deeplink/?ctyh
 
 ## Agenda 
 
-[A detailed agenda is available here.](https://docs.google.com/document/d/129ykk3SXCUBQ_To2G07Scg1hOXOYH4qd/edit). Presenters, please upload your slides to the [CFDE All-Hands April 2023 Google Drive folder](https://drive.google.com/drive/folders/1axSoVORpgKjNnWYF_gQngGml5ZDvZRAH?usp=sharing).
+A detailed agenda with links to slides is [available here](https://docs.google.com/document/d/129ykk3SXCUBQ_To2G07Scg1hOXOYH4qd/edit). All presentations are avilable in the [CFDE All-Hands April 2023 Google Drive folder](https://drive.google.com/drive/folders/1axSoVORpgKjNnWYF_gQngGml5ZDvZRAH?usp=sharing).
 
 ### Day 1: Tuesday, April 4
 
