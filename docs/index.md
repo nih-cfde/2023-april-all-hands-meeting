@@ -1,9 +1,6 @@
 # The NIH Common Fund Data Ecosystem April 2023 All-Hands Meeting
 
-The April CFDE Program Meeting (All-Hands Meeting) will bring together the CFDE community to review progress and discuss strategic issues that impact the ecosystem as a whole. This is a hybrid event with in-person and remote participation.
-
-For this meeting we are also planning a [poster session](https://nih-cfde.github.io/2023-april-all-hands-meeting/ABSTRACTS), and some
-posters will be selected for lightning talks! 
+The April CFDE Program Meeting (All-Hands Meeting) brought together the CFDE community to review progress and discuss strategic issues that impact the ecosystem as a whole. This was a hybrid event with in-person and remote participation, breakout groups, a [poster session](https://nih-cfde.github.io/2023-april-all-hands-meeting/ABSTRACTS), and lightning talks. Out of 120 registrants, 95 attended in person, and 25 attended remotely. 
 
 ## April 4-5, 2023
 
