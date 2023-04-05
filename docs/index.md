@@ -56,15 +56,15 @@ Time | Activity | Presenter | Location
 Time | Activity | Presenter | Location
 -- | -- | -- | --
 7:30-8:30am | Breakfast |   | outside ballroom A
-8:30-10am | What would it take to make CFDE AI/ML-ready? | Avi Ma’ayan, Aaron Lee | Ballroom A B C D
+8:30-10am | What would it take to make CFDE AI/ML-ready? | Avi Ma’ayan, Aaron Lee | Ballroom B C 
 10-10:30am | (break) |   | outside ballroom A
 10:30-noon | Breakouts: Working Groups + other | Communications WG | Rosedale
   |   | Ontology WG/Knowledge Graph WG | Wisconsin
-  |   | Informal/Birds of a Feather meetings | Ballroom A B C D
+  |   | Informal/Birds of a Feather meetings | Ballroom B C 
 12-1pm | Lunch |   | outside ballroom A
-1-2:15pm | Preparing CFDE for New Data Domains | Lori Scott-Sheldon, Allison Heath | Ballroom A B C D
-2:15-3pm | Open Discussion |   | Ballroom A B C D
-3-3:15pm | Wrap up and next steps | George Papanicolaou | Ballroom A B C D
+1-2:15pm | Preparing CFDE for New Data Domains | Lori Scott-Sheldon, Allison Heath | Ballroom B C 
+2:15-3pm | Open Discussion |   | Ballroom B C 
+3-3:15pm | Wrap up and next steps | George Papanicolaou | Ballroom B C 
 
 Presenters, please upload your slides to the [CFDE All-Hands April 2023 Google Drive folder](https://drive.google.com/drive/folders/1axSoVORpgKjNnWYF_gQngGml5ZDvZRAH?usp=sharing).
 
