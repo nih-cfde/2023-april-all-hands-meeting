@@ -30,7 +30,7 @@ Please use [this link](https://www.hilton.com/en/book/reservation/deeplink/?ctyh
 
 ## Agenda 
 
-[A detailed agenda is available here.](https://docs.google.com/document/d/129ykk3SXCUBQ_To2G07Scg1hOXOYH4qd/edit)
+[A detailed agenda is available here.](https://docs.google.com/document/d/129ykk3SXCUBQ_To2G07Scg1hOXOYH4qd/edit). Presenters, please upload your slides to the [CFDE All-Hands April 2023 Google Drive folder](https://drive.google.com/drive/folders/1axSoVORpgKjNnWYF_gQngGml5ZDvZRAH?usp=sharing).
 
 ### Day 1: Tuesday, April 4
 
@@ -66,7 +66,6 @@ Time | Activity | Presenter | Location
 2:15-3pm | Open Discussion |   | Ballroom B C 
 3-3:15pm | Wrap up and next steps | George Papanicolaou | Ballroom B C 
 
-Presenters, please upload your slides to the [CFDE All-Hands April 2023 Google Drive folder](https://drive.google.com/drive/folders/1axSoVORpgKjNnWYF_gQngGml5ZDvZRAH?usp=sharing).
 
 ## Contact
 
